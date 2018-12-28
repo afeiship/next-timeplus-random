@@ -1,0 +1,28 @@
+{
+  "name": "next-timeplus-random",
+  "version": "0.0.1",
+  "description": "Create an array which contains a lots of timestamp in order",
+  "main": "dist/next-timeplus-random.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-timeplus-random",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
